@@ -143,11 +143,11 @@ a time {
     outline:none;
     height: 64px;
     max-width: 400px;
-    padding: 5px 0 7px 5px;
+    padding: 0 0 7px 5px;
 }
 #logo img {
-    max-height: 66px;
-    max-width: 300px;
+    max-height: 39px;
+    max-width: 285px;
     height: auto;
     width: auto;
     vertical-align: middle;
